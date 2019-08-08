@@ -1,0 +1,5 @@
+body {
+  background: url(marc-olivier-jodoin-MJv31qXqSOU-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: 1350px 610px;
+}

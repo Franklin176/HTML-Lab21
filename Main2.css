@@ -1,0 +1,48 @@
+body {
+  background: url(marc-olivier-jodoin-MJv31qXqSOU-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: 1350px 610px;
+}
+
+/*This is a class in CSS, we need to use the . to reference the class
+to hook into the Html
+*/
+
+.testing {
+	background-color: yellow;
+}
+
+.theDogPound {
+	color: blue;
+	background-color: gray;
+}
+/*This is an ID reference it means 
+it uses a # sign to 
+*/
+
+#testID {
+	text-align: center:
+	background-color:green;
+
+}
+
+.backImage {
+
+
+  background: url(ferdinand-stohr-eHWU5xDNlAc-unsplashh.jpg);
+  background-repeat: no-repeat;
+  background-size: 1000px 610px;
+
+}
+/*This is an example of how to style descendant selectors (nested selectors)
+they just need to be separated by a space
+*/
+
+div p{
+	background-color: magenta;
+}
+
+/*This is an example of how to style multiple selectors if you need to make blanket changes 
+*/
+
+h1, .theDogPound, #
